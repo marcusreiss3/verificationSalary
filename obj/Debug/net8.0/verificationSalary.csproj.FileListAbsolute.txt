@@ -1,0 +1,14 @@
+c:\Users\marcu\OneDrive\Desktop\projetos\verificationSalary\verificationSalary\bin\Debug\net8.0\verificationSalary.exe
+c:\Users\marcu\OneDrive\Desktop\projetos\verificationSalary\verificationSalary\bin\Debug\net8.0\verificationSalary.deps.json
+c:\Users\marcu\OneDrive\Desktop\projetos\verificationSalary\verificationSalary\bin\Debug\net8.0\verificationSalary.runtimeconfig.json
+c:\Users\marcu\OneDrive\Desktop\projetos\verificationSalary\verificationSalary\bin\Debug\net8.0\verificationSalary.dll
+c:\Users\marcu\OneDrive\Desktop\projetos\verificationSalary\verificationSalary\bin\Debug\net8.0\verificationSalary.pdb
+c:\Users\marcu\OneDrive\Desktop\projetos\verificationSalary\verificationSalary\obj\Debug\net8.0\verificationSalary.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\marcu\OneDrive\Desktop\projetos\verificationSalary\verificationSalary\obj\Debug\net8.0\verificationSalary.AssemblyInfoInputs.cache
+c:\Users\marcu\OneDrive\Desktop\projetos\verificationSalary\verificationSalary\obj\Debug\net8.0\verificationSalary.AssemblyInfo.cs
+c:\Users\marcu\OneDrive\Desktop\projetos\verificationSalary\verificationSalary\obj\Debug\net8.0\verificationSalary.csproj.CoreCompileInputs.cache
+c:\Users\marcu\OneDrive\Desktop\projetos\verificationSalary\verificationSalary\obj\Debug\net8.0\verificationSalary.dll
+c:\Users\marcu\OneDrive\Desktop\projetos\verificationSalary\verificationSalary\obj\Debug\net8.0\refint\verificationSalary.dll
+c:\Users\marcu\OneDrive\Desktop\projetos\verificationSalary\verificationSalary\obj\Debug\net8.0\verificationSalary.pdb
+c:\Users\marcu\OneDrive\Desktop\projetos\verificationSalary\verificationSalary\obj\Debug\net8.0\verificationSalary.genruntimeconfig.cache
+c:\Users\marcu\OneDrive\Desktop\projetos\verificationSalary\verificationSalary\obj\Debug\net8.0\ref\verificationSalary.dll
